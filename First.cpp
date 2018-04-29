@@ -20,6 +20,16 @@ void Function2()
 
 void Function3()
 {
+	for (int i = 0; i < 333; i++)
+	{
+	}
+	
+}
+
+
+void Function4()
+{
+	for (int i = 0; i < 333; i++)
 	{
 	}
 	
