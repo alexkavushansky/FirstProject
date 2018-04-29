@@ -1,5 +1,18 @@
 
 
-void FUnction()
+void Function()
 {
-for (inti = 0; i++)
+	for (int i = 0; i < 10; i++)
+	{
+	}
+	
+}
+
+
+void Function2()
+{
+	for (int i = 0; i < 220; i++)
+	{
+	}
+	
+}
